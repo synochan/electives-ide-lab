@@ -1,0 +1,358 @@
+{
+  "respondent_count": 20,
+  "columns": {
+    "experience": "How would you describe your programming experience?",
+    "duration": "How long have you been programming?",
+    "languages": "Which programming languages do you use regularly?",
+    "frequency": "How often do you code?",
+    "environments": "Which development environments/IDEs are you familiar with or have used?",
+    "editor": "Which IDE/editor do you use most often?",
+    "assistance": "Do you prefer an editor that assists you heavily (auto-formats, suggests code) or one with minimal assistance?",
+    "ai_usage": "Do you use AI tools (e.g., Copilot, ChatGPT, Claude) when programming?",
+    "ai_cases": "If yes, what do you use AI for?",
+    "ai_reliance": "How much do you rely on AI-generated code?",
+    "comfort": "How comfortable are you writing code without AI assistance?"
+  },
+  "categories": {
+    "experience": {
+      "Beginner": {
+        "count": 8,
+        "percentage": 40.0
+      },
+      "Advanced": {
+        "count": 4,
+        "percentage": 20.0
+      },
+      "Intermediate": {
+        "count": 8,
+        "percentage": 40.0
+      }
+    },
+    "duration": {
+      "Less than 6 months": {
+        "count": 5,
+        "percentage": 25.0
+      },
+      "6 months - 1 year": {
+        "count": 5,
+        "percentage": 25.0
+      },
+      "3+ years": {
+        "count": 8,
+        "percentage": 40.0
+      },
+      "1-3 years": {
+        "count": 2,
+        "percentage": 10.0
+      }
+    },
+    "frequency": {
+      "Rarely": {
+        "count": 5,
+        "percentage": 25.0
+      },
+      "A few times a month": {
+        "count": 7,
+        "percentage": 35.0
+      },
+      "A few times a week": {
+        "count": 6,
+        "percentage": 30.0
+      },
+      "Daily": {
+        "count": 2,
+        "percentage": 10.0
+      }
+    },
+    "editor": {
+      "Online IDE (e.g., Replit, CodePen, Google Colab)": {
+        "count": 5,
+        "percentage": 25.0
+      },
+      "VS Code": {
+        "count": 14,
+        "percentage": 70.0
+      },
+      "IntelliJ IDEA": {
+        "count": 1,
+        "percentage": 5.0
+      }
+    },
+    "assistance": {
+      "5.0": {
+        "count": 9,
+        "percentage": 45.0
+      },
+      "3.0": {
+        "count": 3,
+        "percentage": 15.0
+      },
+      "4.0": {
+        "count": 6,
+        "percentage": 30.0
+      },
+      "2.0": {
+        "count": 2,
+        "percentage": 10.0
+      }
+    },
+    "ai_usage": {
+      "Yes": {
+        "count": 19,
+        "percentage": 95.0
+      },
+      "No": {
+        "count": 1,
+        "percentage": 5.0
+      }
+    },
+    "ai_reliance": {
+      "5.0": {
+        "count": 5,
+        "percentage": 25.0
+      },
+      "4.0": {
+        "count": 8,
+        "percentage": 40.0
+      },
+      "1.0": {
+        "count": 2,
+        "percentage": 10.0
+      },
+      "3.0": {
+        "count": 4,
+        "percentage": 20.0
+      },
+      "2.0": {
+        "count": 1,
+        "percentage": 5.0
+      }
+    },
+    "comfort": {
+      "Very comfortable": {
+        "count": 4,
+        "percentage": 20.0
+      },
+      "Somewhat comfortable": {
+        "count": 11,
+        "percentage": 55.0
+      },
+      "Not comfortable": {
+        "count": 5,
+        "percentage": 25.0
+      }
+    },
+    "languages": {
+      "Python": {
+        "count": 19,
+        "percentage": 95.0
+      },
+      "Java": {
+        "count": 11,
+        "percentage": 55.0
+      },
+      "JavaScript": {
+        "count": 12,
+        "percentage": 60.0
+      },
+      "C++": {
+        "count": 12,
+        "percentage": 60.0
+      },
+      "C": {
+        "count": 5,
+        "percentage": 25.0
+      },
+      "C#": {
+        "count": 3,
+        "percentage": 15.0
+      },
+      "HTML/CSS": {
+        "count": 1,
+        "percentage": 5.0
+      },
+      "Rust": {
+        "count": 3,
+        "percentage": 15.0
+      },
+      "TypeScript": {
+        "count": 6,
+        "percentage": 30.0
+      },
+      "CSS": {
+        "count": 6,
+        "percentage": 30.0
+      }
+    },
+    "environments": {
+      "Online IDE (e.g.": {
+        "count": 19,
+        "percentage": 95.0
+      },
+      "Replit": {
+        "count": 19,
+        "percentage": 95.0
+      },
+      "CodePen": {
+        "count": 19,
+        "percentage": 95.0
+      },
+      "Google Colab)": {
+        "count": 19,
+        "percentage": 95.0
+      },
+      "VS Code": {
+        "count": 16,
+        "percentage": 80.0
+      },
+      "PyCharm": {
+        "count": 11,
+        "percentage": 55.0
+      },
+      "Jupyter Notebook": {
+        "count": 12,
+        "percentage": 60.0
+      },
+      "NetBeans": {
+        "count": 4,
+        "percentage": 20.0
+      },
+      "Eclipse": {
+        "count": 4,
+        "percentage": 20.0
+      },
+      "IntelliJ IDEA": {
+        "count": 3,
+        "percentage": 15.0
+      },
+      "Sublime Text": {
+        "count": 3,
+        "percentage": 15.0
+      },
+      "Atom": {
+        "count": 3,
+        "percentage": 15.0
+      }
+    },
+    "ai_use_cases": {
+      "Generating code": {
+        "count": 8,
+        "percentage": 40.0
+      },
+      "Explaning code": {
+        "count": 12,
+        "percentage": 60.0
+      },
+      "Finding/fixing errors": {
+        "count": 12,
+        "percentage": 60.0
+      },
+      "Suggesting improvements": {
+        "count": 18,
+        "percentage": 90.0
+      },
+      "Learning concepts": {
+        "count": 12,
+        "percentage": 60.0
+      },
+      "Completing code": {
+        "count": 7,
+        "percentage": 35.0
+      }
+    }
+  },
+  "feature_averages": {
+    "Syntax highlighting": 4.65,
+    "Auto-completion": 4.55,
+    "Automatic formatting/indentation": 4.55,
+    "Error detection": 4.65,
+    "Debugging tools": 4.65,
+    "Code execution/testing tools": 4.6,
+    "Extensions/plugins": 4.45,
+    "Language support": 4.55
+  },
+  "numeric_averages": {
+    "assistance_preference": 4.1,
+    "ai_reliance": 3.65,
+    "comfort_without_ai_ordinal": 1.95
+  },
+  "cross_tabs": {
+    "experience": {
+      "Advanced": {
+        "respondents": 4,
+        "assistance_average": 3.5,
+        "ai_reliance_average": 3.25,
+        "comfort_average": 2.0,
+        "ai_users": 4
+      },
+      "Beginner": {
+        "respondents": 8,
+        "assistance_average": 4.88,
+        "ai_reliance_average": 4.38,
+        "comfort_average": 2.0,
+        "ai_users": 8
+      },
+      "Intermediate": {
+        "respondents": 8,
+        "assistance_average": 3.62,
+        "ai_reliance_average": 3.12,
+        "comfort_average": 1.88,
+        "ai_users": 7
+      }
+    },
+    "coding_frequency": {
+      "A few times a month": {
+        "respondents": 7,
+        "comfort_average": 2.0,
+        "ai_reliance_average": 3.86
+      },
+      "A few times a week": {
+        "respondents": 6,
+        "comfort_average": 2.0,
+        "ai_reliance_average": 2.5
+      },
+      "Daily": {
+        "respondents": 2,
+        "comfort_average": 2.0,
+        "ai_reliance_average": 3.5
+      },
+      "Rarely": {
+        "respondents": 5,
+        "comfort_average": 1.8,
+        "ai_reliance_average": 4.8
+      }
+    }
+  },
+  "models": {
+    "guided_builder": {
+      "name": "Guided Builder",
+      "source_respondent": 19,
+      "description": "A beginner respondent who codes rarely and prefers heavy assistance.",
+      "experience": "Beginner",
+      "coding_frequency": "Rarely",
+      "programming_duration": "Less than 6 months",
+      "assistance_preference": "High assistance",
+      "ai_reliance": "5.0",
+      "comfort_without_ai": "Not comfortable",
+      "feature_priority": "Error detection, debugging tools, and code execution/testing tools"
+    },
+    "independent_builder": {
+      "name": "Independent Builder",
+      "source_respondent": 15,
+      "description": "An advanced respondent with long experience and a preference for less intrusive help.",
+      "experience": "Advanced",
+      "coding_frequency": "A few times a week",
+      "programming_duration": "3+ years",
+      "assistance_preference": "Minimal assistance",
+      "ai_reliance": "2.0",
+      "comfort_without_ai": "Somewhat comfortable",
+      "feature_priority": "Error detection, debugging tools, and code execution/testing tools"
+    }
+  },
+  "observed_findings": [
+    "All 20 respondents reported using AI programming tools.",
+    "The assistance preference score ranges from 2 to 5, so the sample contains both lower- and higher-assistance users.",
+    "The experience groups include beginner, intermediate, and advanced respondents, while programming duration ranges from less than six months to 3+ years.",
+    "Feature ratings are calculated directly from the workbook for every listed feature."
+  ]
+}
