@@ -234,13 +234,3 @@ The Independent Builder evidence shows the advanced, lower-assistance profile an
 ![Advanced Independent Builder profile with run result](../screenshots/advanced%20independent%20builder%20%202.jpg)
 
 ![Advanced Independent Builder controlled run](../screenshots/advanced%20independent%20builder%20%20run%20code.jpg)
-
-## Submission checklist
-
-- [x] 20 actual workbook responses verified.
-- [x] Analysis, percentages, averages, and charts generated from the workbook.
-- [x] Two combination-based respondent-derived user models.
-- [x] Explicit adaptation rules.
-- [x] Runnable Tkinter prototype with handled invalid code.
-- [x] Offline Coding Guide clearly identified.
-- [x] Five required report sections and reflection.
