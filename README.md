@@ -11,6 +11,18 @@ Threcia Mae Cabuguason
 
 CS 412 Second Laboratory project based on the supplied `Form Responses.xlsx` survey. The project turns actual respondent differences into two explicit user models and a small adaptive Tkinter coding environment.
 
+## Project structure
+- [`report/laboratory_report.md`](report/laboratory_report.md): complete five-section laboratory report
+- [`report/laboratory_report.docx`](report/laboratory_report.docx): Word version of the laboratory report
+- `main.py`: runnable adaptive coding environment
+- `user_model.py`: respondent-derived profile structures
+- `adaptation.py`: explicit adaptation rules
+- `data_analysis.py`: standard-library XLSX parser, calculations, and chart generation
+- `generate_report.py`: report and DOCX generation
+- `data/survey_data.xlsx`: supplied survey workbook copy
+- `data/analysis.json`: reproducible calculated findings
+- `charts/`: generated SVG charts
+
 ## Requirements
 
 - Python 3.10 or newer
@@ -34,18 +46,6 @@ The app opens with a local login screen. Choose Beginner for Guided Builder or A
 
 The Coding Guide is intentionally offline and deterministic. It does not generate arbitrary code or write files; it only analyzes the current in-memory editor and suggests safe next steps.
 
-## Project structure
-
-- `main.py`: runnable adaptive coding environment
-- `user_model.py`: respondent-derived profile structures
-- `adaptation.py`: explicit adaptation rules
-- `data_analysis.py`: standard-library XLSX parser, calculations, and chart generation
-- `generate_report.py`: report and DOCX generation
-- `data/survey_data.xlsx`: supplied survey workbook copy
-- `data/analysis.json`: reproducible calculated findings
-- `charts/`: generated SVG charts
-- [`report/laboratory_report.md`](report/laboratory_report.md): complete five-section laboratory report
-- [`report/laboratory_report.docx`](report/laboratory_report.docx): Word version of the laboratory report
 
 ## Demonstration profiles
 
