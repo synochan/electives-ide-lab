@@ -177,9 +177,9 @@ The Independent Builder evidence shows the advanced, lower-assistance profile an
 
 ![Advanced Independent Builder profile](../screenshots/advanced%20independent%20builder%20.jpg)
 
-![Advanced Independent Builder profile with run result](../screenshots/advanced%20independent%20builder%202.jpg)
+![Advanced Independent Builder profile with run result](../screenshots/advanced%20independent%20builder%20%202.jpg)
 
-![Advanced Independent Builder controlled run](../screenshots/advanced%20independent%20builder%20run%20code.jpg)
+![Advanced Independent Builder controlled run](../screenshots/advanced%20independent%20builder%20%20run%20code.jpg)
 
 ## Submission checklist
 
