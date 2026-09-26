@@ -157,6 +157,30 @@ Generated from the workbook by `generate_report.py`: experience, coding frequenc
 4. Switch to Independent Builder: Format Code becomes disabled, editor wrapping becomes compact, and Coding Guide becomes optional while Check Code and Debug remain available.
 5. Enter invalid Python and click Check Code to show that errors are handled without crashing.
 
+## Demonstration Evidence
+
+The following screenshots document the two adaptive user-model demonstrations. The filenames are preserved from the workspace evidence folder.
+
+### Guided Builder
+
+The Guided Builder evidence shows the beginner-oriented profile, the profile-specific workspace, and a successful controlled run.
+
+![Beginner Guided Builder profile](../screenshots/Beginner%20Guided%20Builder%20profile.jpg)
+
+![Beginner Guided Builder profile with run result](../screenshots/Beginner%20Guided%20Builder%20profile%202.jpg)
+
+![Beginner Guided Builder controlled run](../screenshots/Beginner%20Guided%20Builder%20profile%20run%20code.jpg)
+
+### Independent Builder
+
+The Independent Builder evidence shows the advanced, lower-assistance profile and its controlled run behavior.
+
+![Advanced Independent Builder profile](../screenshots/advanced%20independent%20builder%20.jpg)
+
+![Advanced Independent Builder profile with run result](../screenshots/advanced%20independent%20builder%202.jpg)
+
+![Advanced Independent Builder controlled run](../screenshots/advanced%20independent%20builder%20run%20code.jpg)
+
 ## Submission checklist
 
 - [x] 20 actual workbook responses verified.
