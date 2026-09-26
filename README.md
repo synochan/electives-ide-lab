@@ -9,6 +9,8 @@
 
 # From User Preferences to an Adaptive Coding Environment
 
+**Members:** Christian Dagcuta, Cermeli Jean Gadrinab, Charmaine Opiso, Jiane Rackyle Sarting, Threcia Mae Cabuguason
+
 CS 412 Second Laboratory project based on the supplied `Form Responses.xlsx` survey. The project turns actual respondent differences into two explicit user models and a small adaptive Tkinter coding environment.
 
 ## Requirements
