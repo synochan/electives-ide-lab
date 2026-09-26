@@ -13,7 +13,6 @@ CS 412 Second Laboratory project based on the supplied `Form Responses.xlsx` sur
 
 ## Project structure
 - [`report/laboratory_report.md`](report/laboratory_report.md): complete five-section laboratory report
-- [`report/laboratory_report.docx`](report/laboratory_report.docx): Word version of the laboratory report
 - `main.py`: runnable adaptive coding environment
 - `user_model.py`: respondent-derived profile structures
 - `adaptation.py`: explicit adaptation rules
