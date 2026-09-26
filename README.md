@@ -44,7 +44,8 @@ The Coding Guide is intentionally offline and deterministic. It does not generat
 - `data/survey_data.xlsx`: supplied survey workbook copy
 - `data/analysis.json`: reproducible calculated findings
 - `charts/`: generated SVG charts
-- `report/`: five-section laboratory report in Markdown and DOCX
+- [`report/laboratory_report.md`](report/laboratory_report.md): complete five-section laboratory report
+- [`report/laboratory_report.docx`](report/laboratory_report.docx): Word version of the laboratory report
 
 ## Demonstration profiles
 
